@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Yenten",
+    "repo": "yentencoin/yenten",
+    "local_version_cmd": "/usr/local/bin/yentend --version"
+  },
+  {
+    "name": "Veco",
+    "repo": "vecopay/veco",
+    "local_version_cmd": "/usr/local/bin/vecod --version"
+  },
+  {
+    "name": "SwampCoin",
+    "repo": "swampcoin/swamp",
+    "local_version_cmd": "/usr/local/bin/swampcoind --version"
+  },
+  {
+    "name": "UraniumX",
+    "repo": "barrystyle/uraniumx",
+    "local_version_cmd": "/usr/local/bin/uraniumxd --version"
+  },
+  {
+    "name": "ButKoin",
+    "repo": "butkoin/but",
+    "local_version_cmd": "/usr/local/bin/butcoind --version"
+  }
+
+
+
+]
